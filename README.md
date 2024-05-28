@@ -40,7 +40,11 @@ The project involves analyzing user interaction data to create cohorts based on 
 ## ABOUT THE DATASET
 
 The provided dataset contains user interaction data, including metrics such as the number of new and returning users, and their engagement durations on Day 1 and Day 7. The data is structured with dates, allowing for time-series analysis. Key columns in the dataset are:
-1. Date: The specific dates of user interactions.2. New Users: The count of new users for each date.3. Returning Users: The count of users returning on each date.4. Duration Day 1: The average duration (possibly in minutes or seconds) of user interaction on their first day.5. Duration Day 7: The average duration of user interaction on their seventh day.
+1. Date: The specific dates of user interactions.
+2. New Users: The count of new users for each date.
+3. Returning Users: The count of users returning on each date.
+4. Duration Day 1: The average duration (possibly in minutes or seconds) of user interaction on their first day.
+5. Duration Day 7: The average duration of user interaction on their seventh day.
 
 
 ## DATA PREPARATION
@@ -101,6 +105,7 @@ In the cohort matrix, each row will correspond to a week of the year, and each c
 <img src="https://github.com/KSultanaGit/Cohort-Analysis-on-User-Interaction/blob/main/plots/plot_7.png" alt="Screenshot 1" width="500" height="200" align="center">
 
 Insights:
+
 1. We can see that the number of new users and returning users fluctuates from week to week.
 2. Notably, there was a significant increase in both new and returning users in Week 47.
 3. The average duration of user engagement on Day 1 and Day 7 varies across the weeks.
