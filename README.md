@@ -67,20 +67,20 @@ The provided dataset contains user interaction data, including metrics such as t
 
 Plotting distributions of all variables using Pairplot
 
-<img src="https://github.com/KSultanaGit/Cohort-Analysis-on-User-Interaction/blob/main/plots/plot_1.png" alt="Screenshot 1" width="500" height="200" align="center">
+<img src="https://github.com/KSultanaGit/Cohort-Analysis-on-User-Interaction/blob/main/plots/plot_1.png" alt="Screenshot 1" width="500" height="500" align="center">
 
 The Trend Analysis for the new and returning users over time
 
-<img src="https://github.com/KSultanaGit/Cohort-Analysis-on-User-Interaction/blob/main/plots/plot_2.png" alt="Screenshot 1" width="500" height="200" align="center">
+<img src="https://github.com/KSultanaGit/Cohort-Analysis-on-User-Interaction/blob/main/plots/plot_2.png" alt="Screenshot 1" width="300" height="300" align="center">
 
 The Trend Analysis for the Duration (Day 1 and Day 7) Over Time
 
-<img src="https://github.com/KSultanaGit/Cohort-Analysis-on-User-Interaction/blob/main/plots/plot_3.png" alt="Screenshot 1" width="500" height="200" align="center">
+<img src="https://github.com/KSultanaGit/Cohort-Analysis-on-User-Interaction/blob/main/plots/plot_3.png" alt="Screenshot 1" width="300" height="300" align="center">
 
 Correlation between the variables
 Here, the strongest correlation is between the number of new and returning users, indicating a potential trend of new users converting to returning users.
 
-<img src="https://github.com/KSultanaGit/Cohort-Analysis-on-User-Interaction/blob/main/plots/plot_4.png" alt="Screenshot 1" width="500" height="200" align="center">
+<img src="https://github.com/KSultanaGit/Cohort-Analysis-on-User-Interaction/blob/main/plots/plot_4.png" alt="Screenshot 1" width="300" height="300" align="center">
 
 ## PERFORM COHORT ANALYSIS
 
@@ -88,11 +88,11 @@ For each cohort (week), calculating the average number of new and returning user
 
 Plotting the trend of the weekly average of the new and returning users and the duration:
 
-<img src="https://github.com/KSultanaGit/Cohort-Analysis-on-User-Interaction/blob/main/plots/plot_5.png" alt="Screenshot 1" width="500" height="200" align="center">
+<img src="https://github.com/KSultanaGit/Cohort-Analysis-on-User-Interaction/blob/main/plots/plot_5.png" alt="Screenshot 1" width="300" height="300" align="center">
 
 <br/>
 
-<img src="https://github.com/KSultanaGit/Cohort-Analysis-on-User-Interaction/blob/main/plots/plot_6.png" alt="Screenshot 1" width="500" height="200" align="center">
+<img src="https://github.com/KSultanaGit/Cohort-Analysis-on-User-Interaction/blob/main/plots/plot_6.png" alt="Screenshot 1" width="300" height="300" align="center">
 
 COHORT MATRIX
 
@@ -102,7 +102,7 @@ In the cohort matrix, each row will correspond to a week of the year, and each c
 3. Average duration on Day 1.
 4. Average duration on Day 7.
 
-<img src="https://github.com/KSultanaGit/Cohort-Analysis-on-User-Interaction/blob/main/plots/plot_7.png" alt="Screenshot 1" width="500" height="200" align="center">
+<img src="https://github.com/KSultanaGit/Cohort-Analysis-on-User-Interaction/blob/main/plots/plot_7.png" alt="Screenshot 1" width="300" height="300" align="center">
 
 Insights:
 
